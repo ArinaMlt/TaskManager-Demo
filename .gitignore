@@ -1,0 +1,33 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+target/
+build/
+
+# Configuration files
+*.class
+*.war
+*.ear
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Other IDEs
+.vscode/
